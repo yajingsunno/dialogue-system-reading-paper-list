@@ -63,6 +63,7 @@
 	- Jiwei Li, Will Monroe, and Dan Jurafsky. 2017c. **Learning to decode for future success**. arXiv preprint arXiv:1701.06549 .    
 	  
 	- Zhou G, Luo P, Xiao Y, et al. **Elastic Responding Machine for Dialog Generation with Dynamically Mechanism Selecting**[C]. national conference on artificial intelligence, 2018: 5730-5737.
+	- Liu, Bing, et al. **“Customized Nonlinear Bandits for Online Response Selection in Neural Conversation Models.”** National Conference on Artificial Intelligence, 2018, pp. 5245–5252
 - 对话历史信息建模
 	- Xing C, Wu Y, Wu W, et al. **Hierarchical Recurrent Attention Network for Response Generation**[J]. national conference on artificial intelligence, 2018: 5610-5617. 
 	
