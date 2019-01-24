@@ -4,7 +4,10 @@
 ## 综述类 ##
 - 李纪为博士论文[teaching machines to converse](https://github.com/topics/teaching-machines-to-converse)
 - 微软小冰产品设计结构[The Design and Implementation of XiaoIce, an Empathetic Social Chatbot](https://arxiv.org/pdf/1812.08989v1.pdf)  
+## 数据集 ## 
+- Budzianowski, Paweł, et al. **“MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling.”**Empirical Methods in Natural Language Processing, 2018, pp. 5016–5026.  
 ## 对话生成模型 ##
+- Liao, Yi, et al. **“QuaSE: Sequence Editing under Quantifiable Guidance.”** Empirical Methods in Natural Language Processing, 2018, pp. 3855–3864.
 - 基于控制**主题**的seq2seq模型  
 	- Xing C, Wu W, Wu Y, et al. **Topic Aware Neural Response Generation**.[J]. national conference on artificial intelligence, 2017: 3351-3357.  
 	
@@ -34,7 +37,8 @@
 	 
 	- Jiwei Li, Will Monroe, and Dan Jurafsky. 2016c. **A simple, fast diverse decoding algorithm for neural generation.** arXiv preprint arXiv:1611.08562 
 	 
-	- Wu Y, Wu W, Li Z, et al. **Neural Response Generation with Dynamic Vocabularies**[J]. national conference on artificial intelligence, 2018: 5594-5601.   
+	- Wu Y, Wu W, Li Z, et al. **Neural Response Generation with Dynamic Vocabularies**[J]. national conference on artificial intelligence, 2018: 5594-5601.  
+	- **Towards Less Generic Responses in Neural Conversation Models: A Statistical Re-weighting Method**EMNLP2018
 - 引入personality保持对话一致
 	- Li J, Galley M, Brockett C, et al.**A Persona-Based Neural Conversation Model**[J]. meeting of the association for computational linguistics, 2016: 994-1003.  
 	
@@ -51,10 +55,12 @@
 	
 	- Ghazvininejad M, Brockett C, Chang M, et al. **A Knowledge-Grounded Neural Conversation Model**[J]. national conference on artificial intelligence, 2018: 5110-5117.
 	
-	- Zhu W, Mo K, Zhang Y, et al. **Flexible End-to-End Dialogue System for Knowledge Grounded Conversation.**[J]. arXiv: Computation and Language, 2017.
+	- Zhu W, Mo K, Zhang Y, et al. **Flexible End-to-End Dialogue System for Knowledge Grounded Conversation.**[J]. arXiv: Computation and Language, 2017.  
+	- Guo, Daya, et al. **“Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base.”** NIPS 2018: The 32nd Annual Conference on Neural Information Processing Systems, 2018, pp. 2946–2955
 - 基于GAN的对话系统  
 	- Xu Z, Liu B, Wang B, et al. **Neural Response Generation via GAN with an Approximate Embedding Layer.**[C]. empirical methods in natural language processing, 2017: 617-626.
-	- Young, Tom, et al.  **“Augmenting End-to-End Dialogue Systems with Commonsense Knowledge.” **National Conference on Artificial Intelligence, 2018, pp. 4970–4977.  
+	- Young, Tom, et al.  **Augmenting End-to-End Dialogue Systems with Commonsense Knowledge.”**National Conference on Artificial Intelligence, 2018, pp. 4970–4977.    
+	- Zhang, Yizhe, et al. **“Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization.”** Neural Information Processing Systems, 2018, pp. 1815–1825.
 	
 	
 - 基于强化学习的对话系统
@@ -76,6 +82,7 @@
 - Tom Young, Erik Cambria, Iti Chaturvedi, Minlie Huang, Hao Zhou, Subham Biswas.**Augmenting End-to-End Dialog Systems with Commonsense Knowledge.** AAAI2018  
 
 - Liu B, Yu T, Mengshoel O J, et al. **Customized Nonlinear Bandits for Online Response Selection in Neural Conversation Models**[J]. national conference on artificial intelligence, 2018: 5245-5252.
+- Rajendran, Janarthanan, et al.**“Learning End-to-End Goal-Oriented Dialog with Multiple Answers.”** Empirical Methods in Natural Language Processing, 2018, pp. 3834–3843.
 
 
 
