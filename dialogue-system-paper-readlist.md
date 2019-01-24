@@ -54,6 +54,9 @@
 	- Zhu W, Mo K, Zhang Y, et al. **Flexible End-to-End Dialogue System for Knowledge Grounded Conversation.**[J]. arXiv: Computation and Language, 2017.
 - 基于GAN的对话系统  
 	- Xu Z, Liu B, Wang B, et al. **Neural Response Generation via GAN with an Approximate Embedding Layer.**[C]. empirical methods in natural language processing, 2017: 617-626.
+	- Young, Tom, et al.  **“Augmenting End-to-End Dialogue Systems with Commonsense Knowledge.” **National Conference on Artificial Intelligence, 2018, pp. 4970–4977.  
+	
+	
 - 基于强化学习的对话系统
 	- Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, and Dan Jurafsky. 2016d. **Deep reinforcement learning for dialogue generation.** EMNLP .  
 	
