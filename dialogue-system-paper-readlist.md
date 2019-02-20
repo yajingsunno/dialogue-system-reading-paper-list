@@ -45,6 +45,8 @@
 	- Qian Q, Huang M, Zhao H, et al. **Assigning Personality/Profile to a Chatting Machine for Coherent Conversation Generation**[J]. international joint conference on artificial intelligence, 2018: 4279-4285. 
 	 
 	- Eric Chu, Prashanth Vijayaraghavan, Deb Roy. **"Learning Personas from Dialogue with Attentive Memory Networks."** EMNLP (2018). 
+	- Saizheng Zhang,Emily Dinan,Jack Urbanek,Arthur Szlam,Douwe Kiela,Jason Weston **Personalizing Dialogue Agents: I have a dog, do you have pets too?**AAAI2018
+	- Kaixiang Mo, Shuangyin Li, Yu Zhang, Jiajun Li, Qiang Yang**Personalizing a Dialogue System with Transfer Learning.**AAAI2018
 	 
 - 引入结构化知识（背景信息，知识图谱等）
 	- Zhou H, Young T, Huang M, et al. **Commonsense Knowledge Aware Conversation Generation with Graph Attention**[C]. international joint conference on artificial intelligence, 2018: 4623-4629.
