@@ -87,6 +87,8 @@
 
 - Liu B, Yu T, Mengshoel O J, et al. **Customized Nonlinear Bandits for Online Response Selection in Neural Conversation Models**[J]. national conference on artificial intelligence, 2018: 5245-5252.
 - Rajendran, Janarthanan, et al.**“Learning End-to-End Goal-Oriented Dialog with Multiple Answers.”** Empirical Methods in Natural Language Processing, 2018, pp. 3834–3843.
+- Luo, Liangchen , et al. **"Learning Personalized End-to-End Goal-Oriented Dialog."** (2018).
+
 
 
 
