@@ -4,6 +4,7 @@
 ## 综述类 ##
 - 李纪为博士论文[teaching machines to converse](https://github.com/topics/teaching-machines-to-converse)
 - 微软小冰产品设计结构[The Design and Implementation of XiaoIce, an Empathetic Social Chatbot](https://arxiv.org/pdf/1812.08989v1.pdf)  
+- 黄民列组综述论文[Challenges in Building Intelligent Open-domain Dialog Systems](https://arxiv.org/abs/1905.05709)
 ## 数据集 ## 
 - Budzianowski, Paweł, et al. **“MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling.”**Empirical Methods in Natural Language Processing, 2018, pp. 5016–5026.  
 ## 对话生成模型 ##
