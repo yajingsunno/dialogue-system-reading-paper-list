@@ -47,7 +47,9 @@
 	 
 	- Eric Chu, Prashanth Vijayaraghavan, Deb Roy. **"Learning Personas from Dialogue with Attentive Memory Networks."** EMNLP (2018). 
 	- Saizheng Zhang,Emily Dinan,Jack Urbanek,Arthur Szlam,Douwe Kiela,Jason Weston **Personalizing Dialogue Agents: I have a dog, do you have pets too?**AAAI2018
+	- **Exploiting Persona Information for Diverse Generation of Conversational Responses** IJCAI2019
 	- Kaixiang Mo, Shuangyin Li, Yu Zhang, Jiajun Li, Qiang Yang**Personalizing a Dialogue System with Transfer Learning.**AAAI2018
+	- Casanueva I, Hain T, Christensen H, et al. **Knowledge transfer between speakers for personalised dialogue management**[C]//Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue. 2015: 12-21.
 	 
 - 引入结构化知识（背景信息，知识图谱等）
 	- Zhou H, Young T, Huang M, et al. **Commonsense Knowledge Aware Conversation Generation with Graph Attention**[C]. international joint conference on artificial intelligence, 2018: 4623-4629.
@@ -62,6 +64,10 @@
 	- Guo, Daya, et al. **“Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base.”** NIPS 2018: The 32nd Annual Conference on Neural Information Processing Systems, 2018, pp. 2946–2955
 	- Fan Wang Jinhua Peng Hua Wu Rongzhong Lian, Min Xie. **Learning to select knowledge for response generation in dialog systems.** arXiv preprint arXiv:1902.04911, 2019.
 	- **Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems** ACL2018 
+	
+	- Liu Z, Niu Z Y, Wu H, et al. **Knowledge Aware Conversation Generation with Reasoning on Augmented Graph**[J]. arXiv preprint arXiv:1903.10245, 2019.
+	
+	
 - 基于GAN的对话系统  
 	- Xu Z, Liu B, Wang B, et al. **Neural Response Generation via GAN with an Approximate Embedding Layer.**[C]. empirical methods in natural language processing, 2017: 617-626.
 	- Young, Tom, et al.  **Augmenting End-to-End Dialogue Systems with Commonsense Knowledge.”**National Conference on Artificial Intelligence, 2018, pp. 4970–4977.    
@@ -72,13 +78,16 @@
 	- Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao, and Dan Jurafsky. 2016d. **Deep reinforcement learning for dialogue generation.** EMNLP .  
 	
 	- Jiwei Li, Will Monroe, and Dan Jurafsky. 2017c. **Learning to decode for future success**. arXiv preprint arXiv:1701.06549 .    
-	  
 	- Zhou G, Luo P, Xiao Y, et al. **Elastic Responding Machine for Dialog Generation with Dynamically Mechanism Selecting**[C]. national conference on artificial intelligence, 2018: 5730-5737.
 	- Liu, Bing, et al. **“Customized Nonlinear Bandits for Online Response Selection in Neural Conversation Models.”** National Conference on Artificial Intelligence, 2018, pp. 5245–5252
 - 对话历史信息建模
 	- Xing C, Wu Y, Wu W, et al. **Hierarchical Recurrent Attention Network for Response Generation**[J]. national conference on artificial intelligence, 2018: 5610-5617. 
 	
 	- Ruizhe Li, Chenghua Lin, Matthew Collinson, Xiao Li, Guanyi Chen. "**A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification**." arXiv:1810.09154 (2018).  
+	- Bao S, He H, Wang F, et al. **Know More about Each Other: Evolving Dialogue Strategy via Compound Assessment**[J]. arXiv preprint arXiv:1906.00549, 2019.
+
+- 对话策略
+	- Wu W, Guo Z, Zhou X, et al. **Proactive Human-Machine Conversation with Explicit Conversation Goals**[J]. arXiv preprint arXiv:1906.05572, 2019.
 	
 ## 检索式对话模型    
 - Wu Y, Wu W, Xing C, et al. **Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots**[J]. meeting of the association for computational linguistics, 2017: 496-505.  
@@ -89,6 +98,7 @@
 - Liu B, Yu T, Mengshoel O J, et al. **Customized Nonlinear Bandits for Online Response Selection in Neural Conversation Models**[J]. national conference on artificial intelligence, 2018: 5245-5252.
 - Rajendran, Janarthanan, et al.**“Learning End-to-End Goal-Oriented Dialog with Multiple Answers.”** Empirical Methods in Natural Language Processing, 2018, pp. 3834–3843.
 - Luo, Liangchen , et al. **"Learning Personalized End-to-End Goal-Oriented Dialog."** (2018).
+- Zhao X, Tao C, Wu W, et al. **A Document-grounded Matching Network for Response Selection in Retrieval-based Chatbots**[J]. arXiv preprint arXiv:1906.04362, 2019.
 
 
 
