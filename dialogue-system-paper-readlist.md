@@ -28,6 +28,8 @@
 	- Zhou H, Huang M, Zhang T, et al. **Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory**[J]. national conference on artificial intelligence, 2018: 730-739.
 	
 	- Yansen Wang, Chenyi Liu, Minlie Huang, Liqiang Nie. **Learning to ask questions in open-domain conversation systems**. ACL 2018  
+	- Can Xu, Wei Wu, Chongyang Tao, Huang Hu, Matt Schuerman, Ying Wang: **Neural Response Generation with Meta-words. **ACL (1) 2019: 5416-5426
+
  
 - 修改beamsearch/decoder/模型结构
 	- Li J, Monroe W, Jurafsky D. **A simple, fast diverse decoding algorithm for neural generation**[J]. arXiv preprint arXiv:1611.08562, 2016.  
