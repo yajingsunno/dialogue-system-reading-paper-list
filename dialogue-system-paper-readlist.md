@@ -68,7 +68,7 @@
 	- **Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems** ACL2018 
 	
 	- Liu Z, Niu Z Y, Wu H, et al. **Knowledge Aware Conversation Generation with Reasoning on Augmented Graph**[J]. arXiv preprint arXiv:1903.10245, 2019.
-	- Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng, Hua Wu,et al. **Learning to select Knowledge for Response Generation in Dialog System**
+	- Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng, Hua Wu,et al. **Learning to select Knowledge for Response Generation in Dialog System** arXiv preprint arXiv:1902.04911, 2019.
 
 - 基于GAN的对话系统  
 	- Xu Z, Liu B, Wang B, et al. **Neural Response Generation via GAN with an Approximate Embedding Layer.**[C]. empirical methods in natural language processing, 2017: 617-626.
