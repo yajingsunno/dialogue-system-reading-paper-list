@@ -28,7 +28,7 @@
 	- Zhou H, Huang M, Zhang T, et al. **Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory**[J]. national conference on artificial intelligence, 2018: 730-739.
 	
 	- Yansen Wang, Chenyi Liu, Minlie Huang, Liqiang Nie. **Learning to ask questions in open-domain conversation systems**. ACL 2018  
-	- Can Xu, Wei Wu, Chongyang Tao, Huang Hu, Matt Schuerman, Ying Wang: **Neural Response Generation with Meta-words. **ACL (1) 2019: 5416-5426
+	- Can Xu, Wei Wu, Chongyang Tao, Huang Hu, Matt Schuerman, Ying Wang: **Neural Response Generation with Meta-words** ACL (1) 2019: 5416-5426
 
  
 - 修改beamsearch/decoder/模型结构
@@ -48,7 +48,7 @@
 	- Qian Q, Huang M, Zhao H, et al. **Assigning Personality/Profile to a Chatting Machine for Coherent Conversation Generation**[J]. international joint conference on artificial intelligence, 2018: 4279-4285. 
 	 
 	- Eric Chu, Prashanth Vijayaraghavan, Deb Roy. **"Learning Personas from Dialogue with Attentive Memory Networks."** EMNLP (2018). 
-	- Saizheng Zhang,Emily Dinan,Jack Urbanek,Arthur Szlam,Douwe Kiela,Jason Weston **Personalizing Dialogue Agents: I have a dog, do you have pets too?**AAAI2018
+	- Saizheng Zhang,Emily Dinan,Jack Urbanek,Arthur Szlam,Douwe Kiela,Jason Weston **Personalizing Dialogue Agents: I have a dog, do you have pets too?**  AAAI2018
 	- **Exploiting Persona Information for Diverse Generation of Conversational Responses** IJCAI2019
 	- Kaixiang Mo, Shuangyin Li, Yu Zhang, Jiajun Li, Qiang Yang**Personalizing a Dialogue System with Transfer Learning.**AAAI2018
 	- Casanueva I, Hain T, Christensen H, et al. **Knowledge transfer between speakers for personalised dialogue management**[C]//Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue. 2015: 12-21.
@@ -68,8 +68,8 @@
 	- **Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems** ACL2018 
 	
 	- Liu Z, Niu Z Y, Wu H, et al. **Knowledge Aware Conversation Generation with Reasoning on Augmented Graph**[J]. arXiv preprint arXiv:1903.10245, 2019.
-	
-	
+	- Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng, Hua Wu,et al. **Learning to select Knowledge for Response Generation in Dialog System**
+
 - 基于GAN的对话系统  
 	- Xu Z, Liu B, Wang B, et al. **Neural Response Generation via GAN with an Approximate Embedding Layer.**[C]. empirical methods in natural language processing, 2017: 617-626.
 	- Young, Tom, et al.  **Augmenting End-to-End Dialogue Systems with Commonsense Knowledge.”**National Conference on Artificial Intelligence, 2018, pp. 4970–4977.    
