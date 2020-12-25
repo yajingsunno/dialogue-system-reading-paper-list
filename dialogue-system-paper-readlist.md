@@ -17,9 +17,20 @@
 
 **Note** 更多数据集介绍可参考黄民烈老师组任务型综述对话论文中有详细介绍
 
+**开放域**
+情感类：
+- STC   单轮 无情感标注
+- Cornell Movie Dialogs  多轮 无情感标注
+- OpenSubtitles  多轮 噪声较大 无情感标注
+- Twitter  单轮高质量 有标签
+- DailyDialog 多轮高质量 有标签
+
 
 ## 对话生成模型 ##
 - Liao, Yi, et al. **“QuaSE: Sequence Editing under Quantifiable Guidance.”** Empirical Methods in Natural Language Processing, 2018, pp. 3855–3864.
+- [DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation](https://www.microsoft.com/en-us/research/publication/dialogpt-large-scale-generative-pre-training-for-conversational-response-generation/)
+- [Hello, It's GPT-2 -- How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems](http://arxiv.org/abs/1907.05774)
+- [PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable](http://arxiv.org/abs/1910.07931)
 - 基于控制**主题**的seq2seq模型  
 	- Xing C, Wu W, Wu Y, et al. **Topic Aware Neural Response Generation**.[J]. national conference on artificial intelligence, 2017: 3351-3357.  
 	
@@ -40,6 +51,9 @@
 	
 	- Yansen Wang, Chenyi Liu, Minlie Huang, Liqiang Nie. **Learning to ask questions in open-domain conversation systems**. ACL 2018  
 	- Can Xu, Wei Wu, Chongyang Tao, Huang Hu, Matt Schuerman, Ying Wang: **Neural Response Generation with Meta-words** ACL (1) 2019: 5416-5426
+	- Topic-Aware Multi-turn Dialogue Modeling.AAAI2021
+	- Qintong Li. Towards Empathetic Dialogue Generation over Multi-type Knowledge.WWW2021
+
 
  
 - 修改beamsearch/decoder/模型结构
@@ -63,7 +77,27 @@
 	- **Exploiting Persona Information for Diverse Generation of Conversational Responses** IJCAI2019
 	- Kaixiang Mo, Shuangyin Li, Yu Zhang, Jiajun Li, Qiang Yang**Personalizing a Dialogue System with Transfer Learning.**AAAI2018
 	- Casanueva I, Hain T, Christensen H, et al. **Knowledge transfer between speakers for personalised dialogue management**[C]//Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue. 2015: 12-21.
-	 
+	- [1911.04700 A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data](https://arxiv.org/abs/1911.04700)
+	- Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation AAAI2020
+	- Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks ACL2020
+	- A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data AAAI2020
+	- You Impress Me: Dialogue Generation via Mutual Persona Perception AAAI2020
+	- Will I Sound Like Me? Improving Persona Consistency in Dialogues through Pragmatic Self-Consciousness ICLR2020
+
+
+
+
+
+	
+	
+- 基于预训练模型的可控对话生成
+	- Zeng Y, Nie J Y. **Generalized Conditioned Dialogue Generation Based on Pre-trained Language Model**[J]. arXiv preprint arXiv:2010.11140, 2020.
+	- Zheng Y, Chen Z, Zhang R, et al. **Stylized Dialogue Response Generation Using Stylized Unpaired Texts**[J]. arXiv e-prints, 2020: arXiv: 2009.12719.
+- 基于数据增强的对话生成
+	- Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight. ACL2020
+	- Diversifying Task-oriented Dialogue Response  Generation with Prototype Guided Paraphrasing. ACL2020
+	- SMRT Chatbots: Improving Non-Task-Oriented Dialog with Simulated Multiple Reference Training. EMNLP2020
+	
 - 引入结构化知识（背景信息，知识图谱等）
 	- Zhou H, Young T, Huang M, et al. **Commonsense Knowledge Aware Conversation Generation with Graph Attention**[C]. international joint conference on artificial intelligence, 2018: 4623-4629.
 	
@@ -80,6 +114,12 @@
 	
 	- Liu Z, Niu Z Y, Wu H, et al. **Knowledge Aware Conversation Generation with Reasoning on Augmented Graph**[J]. arXiv preprint arXiv:1903.10245, 2019.
 	- Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng, Hua Wu,et al. **Learning to select Knowledge for Response Generation in Dialog System** arXiv preprint arXiv:1902.04911, 2019.
+	- History-Adaption Knowledge Incorporation Mechanism for Multi-Turn Dialogue System  AAAI2020
+	- Sequential latent knowledge selection for knowledge-grounded dialogue. ICLR2020
+	- Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation. 2020
+	- Knowledge-Grounded Dialogue Generation with Pre-trained Language Models. 2020
+	- dge Graph Grounded Goal Planning for Open-Domain Conversation Generation. AAAI2020
+	- Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation ACL2020
 
 - 基于GAN的对话系统  
 	- Xu Z, Liu B, Wang B, et al. **Neural Response Generation via GAN with an Approximate Embedding Layer.**[C]. empirical methods in natural language processing, 2017: 617-626.
