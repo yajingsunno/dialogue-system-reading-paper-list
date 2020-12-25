@@ -8,7 +8,16 @@
 - 黄民烈组任务型对话综述论文[Recent Advances and Challenges in Task-oriented Dialog Systems]
 - 赵天成博士论文[LEARNING TO CONVERSE WITH LATENT ACTIONS](https://www.cs.cmu.edu/~tianchez/data/phd_thesis.pdf)
 ## 数据集 ## 
-- Budzianowski, Paweł, et al. **“MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling.”**Empirical Methods in Natural Language Processing, 2018, pp. 5016–5026.  
+**任务型数据集**
+- 【DSTC2】Jason D Williams, Antoine Raux, Deepak Ramachandran, and Alan W Black.**The dialog state tracking challenge.** In Proceed- ings of the SIGDIAL 2013 Conference, pages 404–413, 2013.
+- 【Camrest676】Tsung-Hsien Wen, David Vandyke, Nikola Mrksˇic ́, Milica Gasic, Lina M Rojas Barahona, Pei-Hao Su, Stefan Ultes, and Steve Young. **A network-based end-to-end trainable task-oriented dialogue system.** In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers, pages 438–449, 2017.
+- 【MultiWoZ】Budzianowski, Paweł, et al. **“MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling.”**Empirical Methods in Natural Language Processing, 2018, pp. 5016–5026.  [对应链接]https://github.com/budzianowski/multiwoz
+- 【SGD】Abhinav Rastogi, Xiaoxue Zang, Srinivas Sunkara, Raghav Gupta, and Pranav Khaitan. **Towards scalable multi-domain conversational agents: The schema-guided dialogue dataset.** In Proceedings of the AAAI Conference on Artificial Intelligence, volume 34, 2020.
+- 【AirDialogue】Wei Wei, Quoc Le, Andrew Dai, and Jia Li. **Airdialogue: An environ- ment for goal-oriented dialogue research.** In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 3844–3854, 2018.
+
+**Note** 更多数据集介绍可参考黄民烈老师组任务型综述对话论文中有详细介绍
+
+
 ## 对话生成模型 ##
 - Liao, Yi, et al. **“QuaSE: Sequence Editing under Quantifiable Guidance.”** Empirical Methods in Natural Language Processing, 2018, pp. 3855–3864.
 - 基于控制**主题**的seq2seq模型  
